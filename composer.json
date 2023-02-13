@@ -1,0 +1,14 @@
+{
+    "name": "vendor/eventlistner",
+    "autoload": {
+        "psr-4": {
+            "Eventlistner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adel"
+        }
+    ],
+    "require": {}
+}
